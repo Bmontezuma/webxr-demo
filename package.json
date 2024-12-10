@@ -1,0 +1,12 @@
+{
+  "name": "webxr-demo",
+  "version": "1.0.0",
+  "description": "A simple WebXR demo using Three.js",
+  "main": "index.html",
+  "scripts": {
+    "start": "live-server"
+  },
+  "dependencies": {
+    "three": "^0.155.0"
+  }
+}
