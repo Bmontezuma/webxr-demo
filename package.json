@@ -8,5 +8,16 @@
   },
   "dependencies": {
     "three": "^0.155.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bmontezuma/webxr-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bmontezuma/webxr-demo/issues"
+  },
+  "homepage": "https://github.com/Bmontezuma/webxr-demo#readme"
 }
